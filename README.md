@@ -1,4 +1,4 @@
-## Dejo subida la ultima version corregida y aprobado
+## ✨Dejo subida la ultima version corregida y APROBADA!
 
 # Trabajo Practico
 - Materia: Bases de Datos / Gestion de Datos
